@@ -1,0 +1,12 @@
+A:\Cincinnati State\.NET programming\Week Ten\Travel Expenses\Travel Expenses\obj\Debug\Travel Expenses.vbprojResolveAssemblyReference.cache
+A:\Cincinnati State\.NET programming\Week Ten\Travel Expenses\Travel Expenses\obj\Debug\WindowsApp1.frmExpenses.resources
+A:\Cincinnati State\.NET programming\Week Ten\Travel Expenses\Travel Expenses\obj\Debug\WindowsApp1.Resources.resources
+A:\Cincinnati State\.NET programming\Week Ten\Travel Expenses\Travel Expenses\obj\Debug\Travel Expenses.vbproj.GenerateResource.Cache
+A:\Cincinnati State\.NET programming\Week Ten\Travel Expenses\Travel Expenses\obj\Debug\Travel Expenses.vbproj.CoreCompileInputs.cache
+A:\Cincinnati State\.NET programming\Week Ten\Travel Expenses\Travel Expenses\bin\Debug\Travel Expenses.exe.config
+A:\Cincinnati State\.NET programming\Week Ten\Travel Expenses\Travel Expenses\bin\Debug\Travel Expenses.exe
+A:\Cincinnati State\.NET programming\Week Ten\Travel Expenses\Travel Expenses\bin\Debug\Travel Expenses.pdb
+A:\Cincinnati State\.NET programming\Week Ten\Travel Expenses\Travel Expenses\bin\Debug\Travel Expenses.xml
+A:\Cincinnati State\.NET programming\Week Ten\Travel Expenses\Travel Expenses\obj\Debug\Travel Expenses.exe
+A:\Cincinnati State\.NET programming\Week Ten\Travel Expenses\Travel Expenses\obj\Debug\Travel Expenses.xml
+A:\Cincinnati State\.NET programming\Week Ten\Travel Expenses\Travel Expenses\obj\Debug\Travel Expenses.pdb
